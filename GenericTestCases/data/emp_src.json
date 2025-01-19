@@ -1,0 +1,24 @@
+
+[
+    {
+      "eno": 1,
+      "ename": "Thomas",
+      "deptno": 10
+    },
+    {
+      "eno": 2,
+      "ename": "Pankaj",
+      "deptno": 10
+    },
+    {
+      "eno": 3,
+      "ename": "Ali",
+      "deptno": 20
+    },
+    {
+      "eno": 4,
+      "ename": "Mayank",
+      "deptno": 10
+    }
+  ]
+
